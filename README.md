@@ -15,7 +15,7 @@ Traditional paywalls ask for money. **Stacker Stream** asks for **Conviction**. 
 
 ## Setup
 1. Clone & `npm install`.
-2. Ensure your Reown Project ID `180a7...` is in the config.
+2. Ensure your Reown Project ID.
 3. Deploy the `stacker-access.clar` contract.
 4. Run `npm run dev`.
 
